@@ -1,0 +1,6 @@
+[submodule "pybind11"]
+	path = pybind11
+	url = https://github.com/pybind/pybind11
+[submodule "pybind11-Chinese-docs"]
+	path = pybind11-Chinese-docs
+	url = https://github.com/charlotteLive/pybind11-Chinese-docs
